@@ -1,0 +1,6 @@
+ellipsoidal_sphere_optimization.egg-info/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.mypy_cache/
+.vscode/
